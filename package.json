@@ -9,13 +9,13 @@
   "scripts": {
     "build": "tsc",
     "test": "ava",
-    "prepare" : "npm run build"
+    "prepare": "npm run build"
   },
   "author": "Aaron Sky <aaronsky@skyaaron.com>",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/aaronsky/appstoreconnect.git"
+    "url": "git+https://github.com/farrakha/appstoreconnect.git#build"
   },
   "engines": {
     "node": ">=8.0.0"
@@ -35,7 +35,7 @@
     "pretty-quick": "^1.8.0",
     "sinon": "^7.2.2",
     "ts-node": "^7.0.1",
-    "typescript": "^3.2.2"
+    "typescript": "^3.2.4"
   },
   "dependencies": {
     "got": "^9.5.0",
