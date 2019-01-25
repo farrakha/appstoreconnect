@@ -15,7 +15,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/farrakha/appstoreconnect.git#build"
+    "url": "https://github.com/farrakha/appstoreconnect.git"
   },
   "engines": {
     "node": ">=8.0.0"
